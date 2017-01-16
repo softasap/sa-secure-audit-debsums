@@ -1,6 +1,5 @@
-sa-sa-secure-audit-debsums
-==========================
-
+sa-secure-audit-debsums
+=======================
 [![Build Status](https://travis-ci.org/softasap/sa-secure-audit-debsums.svg?branch=master)](https://travis-ci.org/softasap/sa-secure-audit-debsums)
 
 
