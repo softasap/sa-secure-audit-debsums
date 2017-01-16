@@ -1,0 +1,4 @@
+---
+# tasks file for sa-secure-audit-debsums
+
+  - include: tasks_debsums.yml
